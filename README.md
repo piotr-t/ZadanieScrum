@@ -1,0 +1,2 @@
+# ZadanieScrum
+Propozycja sprawozdania
